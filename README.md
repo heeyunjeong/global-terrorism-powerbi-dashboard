@@ -82,6 +82,8 @@ Key limitations include:
 Global Terrorism Database (GTD)  
 START, University of Maryland
 
+[Official GTD page](https://www.start.umd.edu/data-tools/GTD)
+
 Raw GTD data is not included in this repository.
 
 ## Future Development
