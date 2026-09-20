@@ -26,7 +26,13 @@ It is intended to support structured investigation and comparison rather than pr
 
 ---
 
-<!-- Add Dashboard Walkthrough section here after uploading the video -->
+## Dashboard Walkthrough
+
+A 30-second walkthrough demonstrating the dashboard's interactive workflow, from high-level historical patterns to profile and event-level investigation.
+
+https://github.com/user-attachments/assets/e17f82f4-fd83-473f-8f71-0494ddc37f7f
+
+---
 
 ## Dashboard Workflow
 
